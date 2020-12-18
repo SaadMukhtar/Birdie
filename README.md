@@ -1,2 +1,2 @@
 # Birdie
-Birdie is a 2D runner game where you play as a bird and avoid pipes to gain points and survive, much like the infamous game called Flappy Bird. This is a game in Grade 11 using Java Applet, which is no longer supported in Java.
+Birdie is a 2D runner game where you play as a bird and avoid pipes to gain points and survive, much like the infamous game called Flappy Bird. This is a game in Grade 11 using Java Applet, which is no longer supported in Java. 
