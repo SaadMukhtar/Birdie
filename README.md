@@ -10,6 +10,6 @@ My recommendation would be to run the java file on an IDE called DrJava.
 ## Gameplay
 ![birdie-main](https://github.com/SaadMukhtar/Birdie/blob/master/birdie-main.PNG)
 ![birdie-character](https://github.com/SaadMukhtar/Birdie/blob/master/birdie-character.PNG)
-![birdie-game](https://github.com/SaadMukhtar/Birdie/blob/master/birdie-game.PNG)
+![birdie-game](https://github.com/SaadMukhtar/Birdie/blob/master/birdie-game.png)
 ![birdie-lose](https://github.com/SaadMukhtar/Birdie/blob/master/birdie-lose.PNG)
 ![birdie-credits](https://github.com/SaadMukhtar/Birdie/blob/master/birdie-credits.PNG)
