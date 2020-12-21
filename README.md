@@ -4,7 +4,7 @@ Birdie is a 2D runner game where you play as a bird and avoid pipes to gain poin
 This is a game I created in Grade 11 with a friend using Java Applet for my Computer Science class. 
 
 ## Instructions
-Unfortunately, Applet is not supported in most popular IDE's now.
+Unfortunately, Applet is not supported in most of the popular IDE's anymore.
 My recommendation would be to run the java file on an IDE called DrJava.
 
 ## Gameplay
